@@ -1,0 +1,17 @@
+[
+    {
+        "name": "biscuits",
+        "price": 20.0,
+        "quantity": 10
+    },
+    {
+        "name": "noodles",
+        "price": 25.0,
+        "quantity": 30
+    },
+    {
+        "name": "milk",
+        "price": 50.0,
+        "quantity": 10
+    }
+]
